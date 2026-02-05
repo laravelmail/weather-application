@@ -1,0 +1,1200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta name="x-apple-disable-message-reformatting"/>
+<!--[if !mso]><!--><meta content="IE=edge" http-equiv="X-UA-Compatible"/><!--<![endif]-->
+<title></title>
+<style type="text/css">
+      
+      @media only screen and (min-width: 620px) {
+        .u-row {
+          width: 600px !important;
+        }
+
+        .u-row .u-col {
+          vertical-align: top;
+        }
+
+        
+            .u-row .u-col-25 {
+              width: 150px !important;
+            }
+          
+
+            .u-row .u-col-33p33 {
+              width: 199.98px !important;
+            }
+          
+
+            .u-row .u-col-42p83 {
+              width: 256.98px !important;
+            }
+          
+
+            .u-row .u-col-43p83 {
+              width: 262.98px !important;
+            }
+          
+
+            .u-row .u-col-47p84 {
+              width: 287.04px !important;
+            }
+          
+
+            .u-row .u-col-52p16 {
+              width: 312.96px !important;
+            }
+          
+
+            .u-row .u-col-56p17 {
+              width: 337.02px !important;
+            }
+          
+
+            .u-row .u-col-57p17 {
+              width: 343.02px !important;
+            }
+          
+
+            .u-row .u-col-100 {
+              width: 600px !important;
+            }
+          
+      }
+
+      @media only screen and (max-width: 620px) {
+        .u-row-container {
+          max-width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .u-row {
+          width: 100% !important;
+        }
+
+        .u-row .u-col {
+          display: block !important;
+          width: 100% !important;
+          min-width: 320px !important;
+          max-width: 100% !important;
+        }
+
+        .u-row .u-col > div {
+          margin: 0 auto;
+        }
+
+
+        .u-row .u-col img {
+          max-width: 100% !important;
+        }
+
+}
+    
+body{margin:0;padding:0}table,td,tr{border-collapse:collapse;vertical-align:top}.ie-container table,.mso-container table{table-layout:fixed}*{line-height:inherit}a[x-apple-data-detectors=true]{color:inherit!important;text-decoration:none!important}
+
+
+@media (max-width: 480px) {
+            .hide-mobile {
+              
+              max-height: 0px;
+              overflow: hidden;
+    
+              display: none !important;
+            }
+          }
+          
+
+table, td { color: #000000; } @media (max-width: 480px) { #u_content_image_1 .v-src-width { width: 100% !important; } #u_content_image_1 .v-src-max-width { max-width: 28% !important; } #u_content_text_3 .v-text-align { text-align: center !important; } #u_content_text_2 .v-text-align { text-align: center !important; } #u_content_button_1 .v-text-align { text-align: center !important; } #u_content_image_4 .v-src-width { width: 100% !important; } #u_content_image_4 .v-src-max-width { max-width: 34% !important; } #u_content_text_12 .v-text-align { text-align: center !important; } #u_content_text_13 .v-text-align { text-align: center !important; } #u_content_image_7 .v-src-width { width: 100% !important; } #u_content_image_7 .v-src-max-width { max-width: 57% !important; } #u_content_image_6 .v-src-width { width: 100% !important; } #u_content_image_6 .v-src-max-width { max-width: 69% !important; } #u_content_text_10 .v-text-align { text-align: center !important; } #u_content_text_16 .v-text-align { text-align: center !important; } #u_content_image_8 .v-src-width { width: 100% !important; } #u_content_image_8 .v-src-max-width { max-width: 50% !important; } #u_content_text_17 .v-text-align { text-align: center !important; } #u_content_divider_16 .v-container-padding-padding { padding: 10px !important; } #u_content_image_10 .v-src-width { width: 100% !important; } #u_content_image_10 .v-src-max-width { max-width: 60% !important; } #u_content_image_9 .v-src-width { width: 100% !important; } #u_content_image_9 .v-src-max-width { max-width: 60% !important; } #u_content_divider_17 .v-container-padding-padding { padding: 20px !important; } #u_content_text_8 .v-text-align { text-align: center !important; } }
+    </style>
+<!--[if !mso]><!--><link href="{{ asset('vendor/mail-templates/weather-application/assets/asset_29a2a4aa.css') }}" rel="stylesheet" type="text/css"/><!--<![endif]-->
+</head>
+<body class="clean-body u_body" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;background-color: #7e8c8d;color: #000000">
+<!--[if IE]><div class="ie-container"><![endif]-->
+<!--[if mso]><div class="mso-container"><![endif]-->
+<table cellpadding="0" cellspacing="0" id="u_body" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-color: #7e8c8d;width:100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" style="background-color: #7e8c8d;"><![endif]-->
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #b3dee5;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #b3dee5;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_1" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611296546092-logo-with-cloud-lightning_1034-408.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 17%;max-width: 98.6px;" title="Image" width="98.6"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:9px 10px 20px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #b3dee5;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #b3dee5;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="256" style="width: 256px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-42p83" style="max-width: 320px;min-width: 256.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" class="hide-mobile" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:25px 10px 0px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611296649556-MM.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 77%;max-width: 182.47px;" title="Image" width="182.47"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="343" style="width: 343px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-57p17" style="max-width: 320px;min-width: 343.02px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_3" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #494949; line-height: 130%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 130%; margin: 0px;"><strong><span style="font-size: 32px; line-height: 41.6px;">THE WEATHER IN YOUR POCKET</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_2" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:3px 10px 25px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #757575; line-height: 160%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 160%; margin: 0px;">Introducing our cutting-edge Weather Application, revolutionizing the way you stay updated with weather conditions.</p>
+<p style="font-size: 14px; line-height: 160%; margin: 0px;">incididunt ut labore et dolore magna aliqua.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_button_1" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 40px;font-family:'Open Sans',sans-serif;">
+<!--[if mso]><![endif]-->
+<div align="left" class="v-text-align">
+<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:36px; v-text-anchor:middle; width:131px;" arcsize="0%"  stroke="f" fillcolor="#ffffff"><w:anchorlock/><center style="color:#5f5f5f;"><![endif]-->
+<a class="v-button" href="" style="box-sizing: border-box; display: inline-block; text-decoration: none; text-size-adjust: none; text-align: center; color: rgb(95, 95, 95); background: rgb(255, 255, 255); border-radius: 0px; width: auto; max-width: 100%; word-break: break-word; overflow-wrap: break-word; font-size: 14px; line-height: inherit;" target="_blank"><span style="display:block;padding:10px 20px;line-height:120%;"><span style="font-size: 14px; line-height: 16.8px;">INSTALL NOW</span></span>
+</a>
+<!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #bf98cf;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #bf98cf;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #bf98cf;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #bf98cf;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="200" style="width: 200px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_4" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611297774791-S.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 82px;" title="Image" width="82"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><strong><span style="font-size: 18px; line-height: 25.2px;">SUNNY</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 2px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="28%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;">Stay informed with real-time and accurate weather information specific to your industry.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="200" style="width: 200px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611297796140-C.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 100px;" title="Image" width="100"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><strong><span style="font-size: 18px; line-height: 25.2px;">CLOUDY</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 2px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="28%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;">Discover our advanced Weather Application designed to revolutionize the way you manage weather data.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="200" style="width: 200px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-33p33" style="max-width: 320px;min-width: 200px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px 10px 5px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611297808784-ST.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 99px;" title="Image" width="99"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><strong><span style="font-size: 18px; line-height: 25.2px;">STORMY</span></strong></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 2px solid #ffffff;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="28%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;">Introducing our innovative Weather Application! Experience accurate forecasts and seamless user interface.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #bf98cf;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #bf98cf;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #b3dee5;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #b3dee5;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #a22463;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #a22463;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="337" style="width: 337px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-56p17" style="max-width: 320px;min-width: 337.02px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_12" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px 20px 0px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #40b49a; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="line-height: 25.2px; font-size: 18px;">NOTIFICATIONS</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="hide-mobile" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 20px;font-family:'Open Sans',sans-serif;">
+<table align="left" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 2px solid #40b49a;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="20%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_13" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 20px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #757575; line-height: 180%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 180%; margin: 0px;">Discover our state-of-the-art weather application designed to empower businesses and individuals with real-time climate data for informed decision-making.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="262" style="width: 262px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-43p83" style="max-width: 320px;min-width: 262.98px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_7" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611299343438-M.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 110px;" title="Image" width="110"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #a22463;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #a22463;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #ffffff;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #ffffff;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="287" style="width: 287px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-47p84" style="max-width: 320px;min-width: 287.04px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_6" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611301949400-VVV.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 60%;max-width: 160.22px;" title="Image" width="160.22"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="312" style="width: 312px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-52p16" style="max-width: 320px;min-width: 312.96px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_10" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 20px 0px 10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #fdad04; line-height: 140%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><span style="font-size: 18px; line-height: 25.2px;"><strong><span style="line-height: 25.2px; font-size: 18px;">CHOOSE YOUR CITY</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="hide-mobile" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 20px 10px 15px;font-family:'Open Sans',sans-serif;">
+<table align="left" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 2px solid #fdad04;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="20%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_16" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 20px 30px 10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #757575; line-height: 180%; text-align: left; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 180%; margin: 0px;">Stay informed about the weather! Our application offers accurate and timely forecasts tailored to your industry's needs.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #a22463;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #a22463;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #eeeeee;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #eeeeee;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_8" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:30px 10px 10px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611302724267-simple-weather-app_23-2147552413.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 26%;max-width: 150.8px;" title="Image" width="150.8"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #63625e; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><span style="font-size: 24px; line-height: 33.6px;"><strong><span style="line-height: 33.6px; font-size: 24px;">THE WEATHER IN YOUR POCKET</span></strong></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_17" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:8px 20px 30px 10px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #757575; line-height: 180%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 180%; margin: 0px;">Discover our revolutionary Weather Application, designed to optimize your day-to-day operations in the tech industry.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #eeeeee;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #eeeeee;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="150" style="width: 150px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-25" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" class="hide-mobile" id="u_content_divider_16" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="150" style="width: 150px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-25" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_10" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611303125198-gp.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;" title="Image" width="130"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="150" style="width: 150px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-25" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_image_9" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611303114731-app.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 130px;" title="Image" width="130"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="150" style="width: 150px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-25" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" class="hide-mobile" id="u_content_divider_17" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #eeeeee;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #eeeeee;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:20px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 0px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<div class="u-row-container" style="padding: 0px;background-color: transparent">
+<div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #a22463;">
+<div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
+<!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: #a22463;"><![endif]-->
+<!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
+<div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
+<div style="height: 100%;width: 100% !important;">
+<!--[if (!mso)&(!IE)]><!--><div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;"><!--<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:30px 10px 10px;font-family:'Open Sans',sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="v-text-align" style="padding-right: 0px;padding-left: 0px;">
+<img align="center" alt="Image" border="0" class="v-src-width v-src-max-width" src="{{ asset('vendor/mail-templates/weather-application/assets/1611303232350-logo-with-cloud-lightning_1034-408.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 17%;max-width: 98.6px;" title="Image" width="98.6"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" id="u_content_text_8" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:8px 30px 20px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 180%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 180%; margin: 0px;">Discover the innovative Weather Application that streamlines weather forecasts for your convenience.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<div align="center" style="direction: ltr;">
+<div style="display: table; max-width:187px;">
+<!--[if (mso)|(IE)]><table width="187" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse;" align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:187px;"><tr><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 15px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/weather-application/assets/asset_4fd9c9a2.bin') }}" style="color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;" target="_blank" title="Twitter"><img alt="Twitter" src="{{ asset('vendor/mail-templates/weather-application/assets/twitter.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Twitter" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 15px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/weather-application/assets/asset_51e18f1a.bin') }}" style="color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;" target="_blank" title="Instagram"><img alt="Instagram" src="{{ asset('vendor/mail-templates/weather-application/assets/instagram.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="Instagram" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 15px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/weather-application/assets/asset_9f791c42.bin') }}" style="color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;" target="_blank" title="LinkedIn"><img alt="LinkedIn" src="{{ asset('vendor/mail-templates/weather-application/assets/linkedin.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="LinkedIn" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]><td width="32" style="width:32px; padding-right: 0px;" valign="top"><![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px" width="32">
+<tbody><tr style="vertical-align: top"><td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top" valign="middle">
+<a href="{{ asset('vendor/mail-templates/weather-application/assets/asset_7207dff0.bin') }}" style="color: rgb(0, 0, 238); text-decoration: underline; line-height: inherit;" target="_blank" title="YouTube"><img alt="YouTube" src="{{ asset('vendor/mail-templates/weather-application/assets/youtube.png') }}" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important" title="YouTube" width="32"/>
+</a>
+</td></tr>
+</tbody></table>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Open Sans',sans-serif;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="0px" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%" width="100%">
+<tbody>
+<tr style="vertical-align: top">
+<td style="word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%">
+<span> </span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="font-family:'Open Sans',sans-serif;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:5px 10px 20px;font-family:'Open Sans',sans-serif;">
+<div class="v-text-align" style="font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
+<p style="font-size: 14px; line-height: 140%; margin: 0px;"><span style="font-size: 12px; line-height: 16.8px;">Copyright © YourCompany | All Rights Reserved</span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+</div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+</div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]></div><![endif]-->
+<!--[if IE]></div><![endif]-->
+</body>
+</html>
